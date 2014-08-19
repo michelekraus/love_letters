@@ -1,0 +1,45 @@
+body {
+    font-size: 1.3em;
+}
+
+div {
+    padding: 1em;
+}
+#main {
+
+	text-align: center;
+	width: 100%;
+	font-family: 'Old Standard TT', serif;
+}
+
+#generated_figure {
+	font-size: 4em;
+	color: #444;
+}
+
+#generated_poem {
+	font-size: 3.2em;
+}
+
+#generate, #generatePoem {
+
+	font-size: 4em;
+	font-family: 'Old Standard TT', serif;
+	font-style: italic;
+	padding:5px;
+  	background-color: #fff;
+  	border: none;
+  	color:#000;
+  	text-decoration:none;
+  	outline: 0 none;
+
+}
+
+#generate:hover {
+	color: #FA14B1;
+
+}
+
+#generateDescription:hover {
+	color: #14E3FA;
+}
